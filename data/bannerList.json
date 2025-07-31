@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "image": "/images/banner/tupian1.png",
+    "alt": "图片说明，图片没有显示成功会提供文字说明"
+  },
+  {
+    "id": 2,
+    "image": "https://picsum.photos/id/2/1200/400",
+    "alt": "图片2"
+  },
+  {
+    "id": 3,
+    "image": "https://picsum.photos/id/3/1200/400",
+    "alt": "图片3"
+  }
+]
