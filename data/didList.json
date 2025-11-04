@@ -1,19 +1,19 @@
 [{
     "id": 1,
-    "title": "新文章1",
+    "title": "人工智能新突破123",
     "description": "探索人工智能领域的最新技术和应用案例，了解AI如何改变我们的生活和工作方式。",
     "image": "/images/didList/tupian1.png",
     "alt": "图片说明，图片没有显示成功会提供文字说明",
-    "link": "https://mp.weixin.qq.com/s/oJRCE3w3bR0udCGBxzFNzQ",
+    "link": "https://www.baidu.com",
     "date": "2025-07-15"
   },
   {
     "id": 2,
-    "title": "新文章2",
+    "title": "移动应用开发趋势456",
     "description": "分析2025年移动应用开发的主要趋势，包括跨平台开发、AI集成和用户体验设计。",
     "image": "/images/didList/tupian2.png",
     "alt": "图片2",
-    "link": "https://mp.weixin.qq.com/s/oJRCE3w3bR0udCGBxzFNzQ",
+    "link": "https://www.qq.com",
     "date": "2025-07-10"
   },
   {
@@ -36,38 +36,318 @@
   },
   {
     "id": 5,
-    "title": "网络安全新挑战1",
+    "title": "网络安全新挑战",
     "description": "探讨随着技术发展带来的网络安全新挑战，以及企业和个人如何保护自己的数字资产。",
     "image": "https://picsum.photos/id/14/600/400",
     "alt": "",
     "link": "",
     "date": "2025-06-20"
   },
-   {
+  {
     "id": 6,
-    "title": "网络安全新挑战2",
-    "description": "探讨随着技术发展带来的网络安全新挑战，以及企业和个人如何保护自己的数字资产。",
-    "image": "https://picsum.photos/id/14/600/400",
+    "title": "云计算与大数据",
+    "description": "了解云计算和大数据技术如何协同工作，为企业提供强大的数据分析和存储能力。",
+    "image": "https://picsum.photos/id/13/600/400",
     "alt": "",
     "link": "",
-    "date": "2025-06-20"
+    "date": "2025-06-28"
   },
-   {
+  {
     "id": 7,
-    "title": "网络安全新挑战3",
+    "title": "网络安全新挑战",
     "description": "探讨随着技术发展带来的网络安全新挑战，以及企业和个人如何保护自己的数字资产。",
     "image": "https://picsum.photos/id/14/600/400",
     "alt": "",
     "link": "",
     "date": "2025-06-20"
   },
-   {
+  {
     "id": 8,
-    "title": "网络安全新挑战4",
+    "title": "云计算与大数据",
+    "description": "了解云计算和大数据技术如何协同工作，为企业提供强大的数据分析和存储能力。",
+    "image": "https://picsum.photos/id/13/600/400",
+    "alt": "",
+    "link": "",
+    "date": "2025-06-28"
+  },
+  {
+    "id": 9,
+    "title": "网络安全新挑战",
     "description": "探讨随着技术发展带来的网络安全新挑战，以及企业和个人如何保护自己的数字资产。",
     "image": "https://picsum.photos/id/14/600/400",
     "alt": "",
     "link": "",
     "date": "2025-06-20"
+  }
+,
+  {
+    "id": 10,
+    "title": "前端性能优化101",
+    "description": "汇总前端性能优化技巧：资源压缩、懒加载、缓存策略与渲染优化。",
+    "image": "/images/didList/tupian1.png",
+    "alt": "性能优化",
+    "link": "",
+    "date": "2025-06-15"
+  },
+  {
+    "id": 11,
+    "title": "设计系统入门",
+    "description": "如何建立可复用的设计系统，提高产品一致性并加速交付。",
+    "image": "/images/didList/tupian2.png",
+    "alt": "设计系统",
+    "link": "",
+    "date": "2025-06-10"
+  },
+  {
+    "id": 12,
+    "title": "项目管理实践",
+    "description": "分享敏捷项目管理在中小团队中的落地经验和常见陷阱。",
+    "image": "/images/didList/tupian3.png",
+    "alt": "项目管理",
+    "link": "",
+    "date": "2025-06-05"
+  },
+  {
+    "id": 13,
+    "title": "可访问性（A11y）指南",
+    "description": "让网站更友好：语义化、键盘导航、色彩对比与屏幕阅读器支持。",
+    "image": "https://picsum.photos/id/20/600/400",
+    "alt": "可访问性",
+    "link": "",
+    "date": "2025-05-28"
+  },
+  {
+    "id": 14,
+    "title": "Serverless 架构概览",
+    "description": "介绍 Serverless 模式在云端函数、事件驱动与成本优化方面的优缺点。",
+    "image": "https://picsum.photos/id/21/600/400",
+    "alt": "Serverless",
+    "link": "",
+    "date": "2025-05-20"
+  },
+  {
+    "id": 15,
+    "title": "图像优化技巧",
+    "description": "教你如何在网页上优化图片体积与加载性能，同时保证视觉质量。",
+    "image": "/images/didList/tupian1.png",
+    "alt": "图像优化",
+    "link": "",
+    "date": "2025-05-15"
+  },
+  {
+    "id": 16,
+    "title": "微前端实践",
+    "description": "讲述微前端的拆分策略、路由管理和通信方式的实现要点。",
+    "image": "/images/didList/tupian2.png",
+    "alt": "微前端",
+    "link": "",
+    "date": "2025-05-10"
+  },
+  {
+    "id": 17,
+    "title": "TypeScript 进阶技巧",
+    "description": "提升类型设计能力：泛型、条件类型与实用类型工具的应用。",
+    "image": "/images/didList/tupian3.png",
+    "alt": "TypeScript",
+    "link": "",
+    "date": "2025-05-05"
+  },
+  {
+    "id": 18,
+    "title": "无障碍表单设计",
+    "description": "表单 UX 的最佳实践：标签、占位、错误提示与辅助说明的设计。",
+    "image": "https://picsum.photos/id/25/600/400",
+    "alt": "表单设计",
+    "link": "",
+    "date": "2025-04-28"
+  },
+  {
+    "id": 19,
+    "title": "API 版本管理",
+    "description": "讨论如何优雅地管理 API 版本，使消费者和服务端平滑升级。",
+    "image": "https://picsum.photos/id/26/600/400",
+    "alt": "API",
+    "link": "",
+    "date": "2025-04-20"
+  },
+  {
+    "id": 20,
+    "title": "CSS 架构思考",
+    "description": "从模块化和可维护性角度，比较 BEM、OOCSS 与现代 CSS-in-JS。",
+    "image": "/images/didList/tupian1.png",
+    "alt": "CSS 架构",
+    "link": "",
+    "date": "2025-04-15"
+  },
+  {
+    "id": 21,
+    "title": "边缘计算简介",
+    "description": "边缘计算的场景、延迟优化与与云计算的协同方式介绍。",
+    "image": "https://picsum.photos/id/30/600/400",
+    "alt": "边缘计算",
+    "link": "",
+    "date": "2025-04-10"
+  },
+  {
+    "id": 22,
+    "title": "前端安全要点",
+    "description": "防范 XSS、CSRF、Clickjacking 等前端常见安全问题的实践。",
+    "image": "https://picsum.photos/id/31/600/400",
+    "alt": "前端安全",
+    "link": "",
+    "date": "2025-04-05"
+  },
+  {
+    "id": 23,
+    "title": "性能监控与告警",
+    "description": "如何搭建可观测性平台并把性能问题及时发现与告警。",
+    "image": "/images/didList/tupian2.png",
+    "alt": "监控",
+    "link": "",
+    "date": "2025-03-28"
+  },
+  {
+    "id": 24,
+    "title": "可扩展的微服务设计",
+    "description": "微服务拆分、通信模式与一致性处理的实战分享。",
+    "image": "https://picsum.photos/id/35/600/400",
+    "alt": "微服务",
+    "link": "",
+    "date": "2025-03-20"
+  },
+  {
+    "id": 25,
+    "title": "GraphQL 实战",
+    "description": "使用 GraphQL 优化前后端数据交互与按需查询的示例。",
+    "image": "https://picsum.photos/id/36/600/400",
+    "alt": "GraphQL",
+    "link": "",
+    "date": "2025-03-15"
+  },
+  {
+    "id": 26,
+    "title": "自动化测试策略",
+    "description": "端到端测试、集成测试与单元测试的组合策略与工具链。",
+    "image": "/images/didList/tupian3.png",
+    "alt": "测试",
+    "link": "",
+    "date": "2025-03-10"
+  },
+  {
+    "id": 27,
+    "title": "渐进增强指南",
+    "description": "在不牺牲可访问性的前提下，逐步增强用户体验的实践。",
+    "image": "https://picsum.photos/id/40/600/400",
+    "alt": "渐进增强",
+    "link": "",
+    "date": "2025-03-05"
+  },
+  {
+    "id": 28,
+    "title": "缓存策略设计",
+    "description": "合理使用 HTTP 缓存、CDN 与客户端缓存以提升性能与可用性。",
+    "image": "https://picsum.photos/id/41/600/400",
+    "alt": "缓存",
+    "link": "",
+    "date": "2025-02-28"
+  },
+  {
+    "id": 29,
+    "title": "容器化与部署流水线",
+    "description": "容器镜像构建、镜像仓库与 CI/CD 部署流水线的实践要点。",
+    "image": "/images/didList/tupian1.png",
+    "alt": "容器化",
+    "link": "",
+    "date": "2025-02-20"
+  },
+  {
+    "id": 30,
+    "title": "现代化日志收集",
+    "description": "结构化日志、集中式存储与搜索分析的实现方式。",
+    "image": "https://picsum.photos/id/45/600/400",
+    "alt": "日志",
+    "link": "",
+    "date": "2025-02-15"
+  },
+  {
+    "id": 31,
+    "title": "实时通信（WebSocket）",
+    "description": "在实时场景下使用 WebSocket 的架构设计和常见问题解决。",
+    "image": "https://picsum.photos/id/46/600/400",
+    "alt": "实时通信",
+    "link": "",
+    "date": "2025-02-10"
+  },
+  {
+    "id": 32,
+    "title": "渐进式 Web App (PWA)",
+    "description": "如何把网站转为 PWA，包括离线支持、缓存策略与安装体验。",
+    "image": "/images/didList/tupian2.png",
+    "alt": "PWA",
+    "link": "",
+    "date": "2025-02-05"
+  },
+  {
+    "id": 33,
+    "title": "用户体验研究方法",
+    "description": "快速可行的用户研究方法，帮助产品团队发现真实需求与痛点。",
+    "image": "https://picsum.photos/id/50/600/400",
+    "alt": "UX",
+    "link": "",
+    "date": "2025-01-28"
+  },
+  {
+    "id": 34,
+    "title": "渐进式迁移策略",
+    "description": "在重构或技术升级中，如何设计渐进式迁移以降低风险。",
+    "image": "https://picsum.photos/id/51/600/400",
+    "alt": "迁移",
+    "link": "",
+    "date": "2025-01-20"
+  },
+  {
+    "id": 35,
+    "title": "搜索引擎优化（SEO）基础",
+    "description": "面向技术人员的实用 SEO 建议，包括结构化数据与性能优化。",
+    "image": "/images/didList/tupian3.png",
+    "alt": "SEO",
+    "link": "",
+    "date": "2025-01-15"
+  },
+  {
+    "id": 36,
+    "title": "移动端动画与交互",
+    "description": "设计流畅并节能的移动端动画，提升用户体验同时避免性能问题。",
+    "image": "https://picsum.photos/id/55/600/400",
+    "alt": "动画",
+    "link": "",
+    "date": "2025-01-10"
+  },
+  {
+    "id": 37,
+    "title": "图形化数据可视化",
+    "description": "用图表与交互展示复杂数据，让用户能快速理解关键信息。",
+    "image": "https://picsum.photos/id/56/600/400",
+    "alt": "可视化",
+    "link": "",
+    "date": "2025-01-05"
+  },
+  {
+    "id": 38,
+    "title": "单页应用状态管理",
+    "description": "介绍现代状态管理方案及在大型应用中的实践经验。",
+    "image": "/images/didList/tupian1.png",
+    "alt": "状态管理",
+    "link": "",
+    "date": "2024-12-28"
+  },
+  {
+    "id": 39,
+    "title": "数据隐私与合规",
+    "description": "讨论数据隐私保护与合规要求在产品设计中的落地策略。",
+    "image": "https://picsum.photos/id/60/600/400",
+    "alt": "隐私",
+    "link": "",
+    "date": "2024-12-20"
   }
 ]
